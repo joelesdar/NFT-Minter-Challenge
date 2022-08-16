@@ -3,7 +3,7 @@ import styled from 'styled-components'
 export const DivForm = styled.div`
 
     background: var(--dark-blue);
-    color: #41EFBD;
+    color: var(--green-blue);
     padding: 3rem;
     font-family: 'Poppins', sans-serif;
     border-radius: 40px;
